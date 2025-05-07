@@ -1,0 +1,24 @@
+{
+  "name": "learn-modern-javascript",
+  "version": "1.0.0",
+  "description": "Just to learn javascript ecosystem",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammmadrizki/learn-modern-javascript.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammmadrizki/learn-modern-javascript/issues"
+  },
+  "homepage": "https://github.com/muhammmadrizki/learn-modern-javascript#readme",
+  "devDependencies": {
+    "eslint": "^9.26.0",
+    "prettier": "^3.5.3",
+    "typescript": "^5.8.3"
+  }
+}
